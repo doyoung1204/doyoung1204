@@ -82,8 +82,8 @@ AI: ChatGPT API
 - OCR 결과 데이터 불일치 문제  
   → 후처리 로직 추가하여 성분 정규화
 
-🔗 Frontend: (링크)  
-🔗 Backend: (링크)
+🔗 Frontend: https://github.com/doyoung1204/cap/cap3_frontend-main  
+🔗 Backend: https://github.com/doyoung1204/cap/cap3_backend-main/backend
 
 ---
 
@@ -148,13 +148,7 @@ AI: ChatGPT API
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=본인아이디)
-
----
-
 # 📫 Contact
 
-- Email: example@email.com
-- GitHub: https://github.com/본인아이디
+- Email: udt8835@naver.com
+- GitHub: https://github.com/doyoung1204
