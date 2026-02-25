@@ -82,7 +82,7 @@ AI: ChatGPT API
 - OCR 결과 데이터 불일치 문제  
   → 후처리 로직 추가하여 성분 정규화
 
-Code source: https://github.com/doyoung1204/cap
+🔗 GitHub: https://github.com/doyoung1204/cap
 
 ---
 
