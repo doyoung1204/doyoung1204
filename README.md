@@ -82,8 +82,7 @@ AI: ChatGPT API
 - OCR 결과 데이터 불일치 문제  
   → 후처리 로직 추가하여 성분 정규화
 
-Frontend: https://github.com/doyoung1204/cap/tree/main/cap3_frontend-main
-Backend: https://github.com/doyoung1204/cap/tree/main/cap3_backend-main/backend
+Code source: https://github.com/doyoung1204/cap
 
 ---
 
